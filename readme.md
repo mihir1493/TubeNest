@@ -1,4 +1,4 @@
-Check out the [Chrome Extension Store](https://chromewebstore.google.com/detail/tubenest/pkajmpfaahlhfolejpjfnobjnceaofmf) for more details.
+Click the link for more details [Click Here](https://chromewebstore.google.com/detail/tubenest/pkajmpfaahlhfolejpjfnobjnceaofmf) for more details.
 ### CHROME EXTENSION FOR YOUTUBE - AUTOMATICALLY ORGANIZE YOUR VIDEOS
 ![Alt Text](./tubenest.jpg)
 Save YouTube videos with one click and organize them intelligently
