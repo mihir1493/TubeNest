@@ -1,6 +1,6 @@
 Check out the [Chrome Extension Store](https://chromewebstore.google.com/detail/tubenest/pkajmpfaahlhfolejpjfnobjnceaofmf) for more details.
 ### CHROME EXTENSION FOR YOUTUBE - AUTOMATICALLY ORGANIZE YOUR VIDEOS
-![Alt Text](./images/tubenest.jpg)
+![Alt Text](./tubenest.jpg)
 Save YouTube videos with one click and organize them intelligently
 
 TubeNest is a powerful Chrome extension that helps you save and organize YouTube videos effortlessly.
